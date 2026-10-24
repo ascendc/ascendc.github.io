@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "mode": "master",
+  "prNumber": null,
+  "ref": "master",
+  "sha": "9dfffb2ba02d3f1fb80e1f4e6b7fc4e4d1a92158",
+  "commitUrl": "https://gitcode.com/cann/asc-devkit/commit/9dfffb2ba02d3f1fb80e1f4e6b7fc4e4d1a92158",
+  "builtAt": "2026-10-24T14:05:05Z",
+  "buildDurationMs": 262511,
+  "stats": {
+    "totalBytes": 331909966,
+    "fileCount": 23816,
+    "directoryCount": 494,
+    "pageCount": 3753,
+    "pageBytes": 121029831,
+    "imageCount": 1346,
+    "imageBytes": 67988922,
+    "imageTypes": {
+      "PNG": {
+        "count": 1346,
+        "bytes": 67988922
+      }
+    },
+    "jsCount": 7619,
+    "jsBytes": 89340640,
+    "cssCount": 8,
+    "cssBytes": 289360,
+    "searchCount": 7706,
+    "searchBytes": 14034564,
+    "otherCount": 3384,
+    "otherBytes": 39226649,
+    "otherTypes": {
+      "JSON": {
+        "count": 6,
+        "bytes": 22127923
+      },
+      "MD": {
+        "count": 3364,
+        "bytes": 16455970
+      },
+      "WOFF2": {
+        "count": 14,
+        "bytes": 642756
+      }
+    }
+  }
+}
